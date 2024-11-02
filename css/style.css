@@ -789,6 +789,7 @@ background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.7));
 }
 .map-container {
   height: 300px;
+  /* max-height:fit-content; */
 }
 #contact iframe {
   filter: invert(100%);
